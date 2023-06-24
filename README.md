@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @JMya0802
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JMya0802/JMya0802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 介绍
+- 2018 创新意初中组第二名
+- 2019 电协成果日作品：鬼故事作品+登陆系统+database
+- 2020-2022 Maker组组长
+- 2020-2021 FYP工作人员之一
+- 2022 FYMCS康乐
+- 2022 PSB举办的Robotics比赛亚军
